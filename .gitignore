@@ -133,5 +133,13 @@ config.py
 *.png
 *.jpg
 
+# videos
+*.mp4
+
+# data
+*.csv
+
 # Exclude project
 Homework/Object Detection
+Homework/Day35.YOLO 細節理解 - 損失函數
+Homework/Day37.YOLO 細節理解 - 網路架構程式碼解讀
